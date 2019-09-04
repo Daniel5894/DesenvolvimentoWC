@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\aluno.unilasalle\Documents\Daniel\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3073137968.index
+2919944911.index
+1256953121.index
+1487824425.index
+2668175584.index
+1487824425.index
+1668132363.index
+2455584849.index
